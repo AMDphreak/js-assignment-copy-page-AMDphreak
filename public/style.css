@@ -1,0 +1,19 @@
+.centered {
+    display:flex;
+    justify-content:center;
+}
+#pagetitle {
+    display:flex;
+    justify-content:space-between;
+}
+#screensize {
+    display:flex;
+    justify-content:center;
+}
+
+html, body {
+    margin:0;
+    font-family:helvetica;
+    font-size:12pt;
+    padding:0;
+}
